@@ -379,7 +379,9 @@ npm run dev
    - คลิกปุ่ม "Save" ที่มุมขวาบน
      
   ### บันทึกผลการทดลอง
-  ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
+  ![แทรกรูปการตั้งค่า Postman]
+  ![image](https://github.com/user-attachments/assets/42086f67-223a-45fa-a6f6-ac8daaece870)
+
 
 1. การทดสอบ Request:
    - ตรวจสอบว่า Node.js server กำลังทำงานอยู่
@@ -389,7 +391,10 @@ npm run dev
    - ควรเห็น Status Code 201 Created
   
    ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
+  ![แทรกรูปผลการเพิ่มข้อมูล]
+![image](https://github.com/user-attachments/assets/4159b13f-9bad-4b3f-8627-89797d448065)
+
+
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
   
 
